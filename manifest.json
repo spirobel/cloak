@@ -2,11 +2,11 @@
 	"name": "Cloak",
 	"version": "1.0.1",
 	"manifest_version": 2,
-	"description": "disable search history suggestions in chrome",
+	"description": "this extension disables and deletes your search history",
 	"permissions": ["history"],
 	"background": {
 		"scripts": ["script.js"],
-		"persistent": false
+		"persistent": true
 	},
 	"icons": {
 		"128": "icon.png"
