@@ -14,7 +14,7 @@ the goal behind this is to break the feedback loop between you and sites you vis
 
 [more information](https://twitter.com/spirobel/status/1504012335370813443)
 
+![](screenshots/reading_vs_gambling.png)
 ![](screenshots/you_and_your_browser.png)
 
 
-![](screenshots/reading_vs_gambling.png)
